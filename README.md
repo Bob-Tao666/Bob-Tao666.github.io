@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 欢迎来到SkyCloud Studio官方网站
 
-You can use the [editor on GitHub](https://github.com/Bob-Tao666/Bob-Tao666.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+该网站仍在建设中，记得经常来看看哟«٩(*´ ꒳ `*)۶»
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bluemap实时卫星地图
 
-### Markdown
+可通过浏览器实时查看服务器地图，[戳我](https://skycloud.minasan.xyz/) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 服务器信息
 
-```markdown
-Syntax highlighted code block
+这是由SkyCloud Studio与DL RS同人合作开通的Forge模组服务器
+致力打造开放型优质现代城市
+服务器地址（全网通）：mc.skycloud.work
+游戏版本：1.12.2（Java Edition）
+当前属于【正常运营】状态
+支持HMCL、PCL等除网易国服外的所有国际版启动器
+![avatar](axa.huaop.top:8100/imgs/seve1.jpg)
+![avatar](axa.huaop.top:8100/imgs/seve2.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+### 联系与支持
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bob-Tao666/Bob-Tao666.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+官方QQ群：925209465
+站长QQ：904573723
