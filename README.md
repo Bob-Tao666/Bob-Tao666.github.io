@@ -4,7 +4,7 @@
 
 ### Bluemap实时卫星地图
 
-可通过浏览器实时查看服务器地图，[戳我](https://skycloud.minasan.xyz/) 
+可通过浏览器实时查看服务器地图，[戳我](http://axa.huaop.top:8100/) 
 
 ### 服务器信息
 
@@ -15,8 +15,8 @@
 当前属于【正常运营】状态  
 支持HMCL、PCL等除网易国服外的所有国际版启动器  
 
-![Image text](https://skycloud.minasan.xyz/imgs/seve1.jpg)  
-![Image text](https://skycloud.minasan.xyz/imgs/seve2.jpg)  
+![Image text](http://axa.huaop.top:8100/imgs/seve1.jpg)  
+![Image text](http://axa.huaop.top:8100/imgs/seve2.jpg)  
 
 ### 联系与支持
 
