@@ -8,7 +8,8 @@
 
 ### 服务器信息
 
-<iframe style="width:calc(100% - 200px);margin-left:calc(50% - 50vw + 100px);height:calc(100% - 200px / 16 * 9)" src="//player.bilibili.com/player.html?aid=586237663&bvid=BV1gz4y1S7QM&cid=285028344&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
+<iframe style="width:calc(100% - 200px);margin-left:calc(50% - 50vw + 100px);height:calc((100vw - 200px) / 16 * 9 + 100px)" src="http://player.bilibili.com/player.html?aid=586237663&bvid=BV1gz4y1S7QM&cid=285028344&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>    
+
 这是由SkyCloud Studio与DL RS同人合作开通的Forge模组服务器  
 致力打造开放型优质现代城市  
 服务器地址（全网通）：mc.skycloud.work  
