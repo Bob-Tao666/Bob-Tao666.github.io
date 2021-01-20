@@ -4,7 +4,7 @@
 
 ### Bluemap实时卫星地图
 
-可通过浏览器实时查看服务器地图，[戳我](http://axa.huaop.top:8100/) 
+可通过浏览器实时查看服务器地图，[戳我](https://skycloud.minasan.xyz/) 
 
 ### 服务器信息
 
