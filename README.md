@@ -8,7 +8,7 @@
 
 ### 服务器信息
 
-<iframe src="//player.bilibili.com/player.html?aid=586237663&bvid=BV1gz4y1S7QM&cid=285028344&page=1" scrolling="no" allowfullscreen="true" height="50%" width="100%" style="overflow:visible;"> </iframe>    
+<iframe src="//player.bilibili.com/player.html?aid=586237663&bvid=BV1gz4y1S7QM&cid=285028344&page=1" scrolling="no" allowfullscreen="true" height="100%" width="100%" style="overflow:visible;"> </iframe>    
 
 这是由SkyCloud Studio与DL RS同人合作开通的Forge模组服务器  
 致力打造开放型优质现代城市  
