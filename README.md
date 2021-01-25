@@ -32,10 +32,7 @@ ___________________________________________________
 为了方便管理，请加入群聊（925209465）以获得服务器地址  
 游戏版本：1.12.2（Java Edition）  
 当前属于【正常运营】状态  
-该服务器需要下载并安装必要的模组，加入官方qq群即可下载整合客户端  
-
-![Image text](https://skycloud.minasan.xyz/imgs/seve1.jpg)  
-![Image text](https://skycloud.minasan.xyz/imgs/seve2.jpg)  
+该服务器需要下载并安装必要的模组，加入官方qq群即可下载整合客户端    
 
 ### 联系与支持
 
