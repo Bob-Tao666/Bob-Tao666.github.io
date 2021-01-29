@@ -21,7 +21,7 @@ SkyCloud Studio官方mc服务器群由体验服与纯净服组成
 SkyCloud公测服即将推出，敬请期待  
 为了方便管理，请加入群聊（925209465）以获得服务器地址  
 
-### 模组服宣传片
+### 体验服宣传片
 
 <iframe src="//player.bilibili.com/player.html?aid=586237663&bvid=BV1gz4y1S7QM&cid=285028344&page=1" scrolling="no" allowfullscreen="true" width="100%" style="overflow:visible;height:calc((100vw - 200px) / 16 * 9 + 100px)"> </iframe>    
 
