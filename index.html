@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-cmn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.index.css">
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title>Skycloud</title>
+</head>
+
+<body>
+    <div class="nav">
+        <img class="nav-logo" src="images/logo.png">
+        <div class="nav-controll">
+            <a class="nav-controll-button" href="index.html">主页</a> <a class="nav-controll-button" href="downloads.html">下载</a> <a
+                class="nav-controll-button" href="http://axa.huaop.top:8100/">Bluemap</a>
+        </div>
+    </div>
+    <div style="position:absolute; left:0px; top:50px; width:100%; height: 500px; overflow: hidden;">
+        <img class="information-background" src="images/MCServer_Screenshot.png">
+        <div
+            style="position: absolute; top: calc(100% - 200px); left: 0px; width: 100%; height: 200px; background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.5));;">
+        </div>
+        <div class="information">
+            <p class="information-title">天云服务器</p>
+            <p class="information-subtitle">Skycloud Minecraft Server</p>
+        </div>
+    </div>
+    <div class="column">
+        <ul id="myTab" class="nav nav-tabs">
+            <li><a class="nav-tab" href="#introduction" data-toggle="tab">介绍</a></li>
+            <li><a class="nav-tab" href="#adress" data-toggle="tab">游玩地址</a></li>
+            <li><a class="nav-tab" href="#qq" data-toggle="tab">联系我们</a></li>
+        </ul>
+        <div id="myTabContent" class="column-content">
+            <div class="tab-pane fade" id="introduction">
+                <div style="position:absolute; left:10px; top:50px; width:calc(100% - 20px);">
+                    <p class="column-content-title">介.绍.</p>
+                    <p>这是由SkyCloud Studio与DL RS同人合作开通的服务器群</p>
+                    <p>此服务器群由两个服务器组成</p>
+                    <p>您可以选择在模组服中创造，也可以选择在版本互通服中生存</p>
+                    <p>我们致力打造开放型优质现代城市与纯净的生存体验</p>
+                    <br>
+                    <p style="font-size: 14px;">Copyright 2021 Skycloud Studio,All Rights Reserved.</p>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="adress">
+                <div style="position:absolute; left:10px; top:50px; width:calc(100% - 20px);">
+                    <p class="column-content-title">游.玩.地.址.</p>
+                    <p>为了方便管理，请加入群聊（925209465）以获得服务器地址</p>
+                    <br>
+                    <p style="font-size: 14px;">Copyright 2021 Skycloud Studio,All Rights Reserved.</p>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="qq">
+                <div style="position:absolute; left:10px; top:50px; width:calc(100% - 20px);">
+                    <p class="column-content-title">联.系.我.们.</p>
+                    <p>请认准我们的唯一联系QQ群：925209465</p>
+                    <p>三克油</p>
+                    <br>
+                    <p style="font-size: 14px;">Copyright 2021 Skycloud Studio,All Rights Reserved.</p>
+                </div>
+            </div>
+        </div>
+        <script>
+            $(function () {
+                $('#myTab li:eq(0) a').tab('show');
+            });
+        </script>
+    </div>
+</body>
+
+</html>
